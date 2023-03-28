@@ -1,0 +1,92 @@
+body{
+    background-color: #DAF5FF;
+    font-family: "Montserrat" , sans-serif;
+}
+/* Navbar */
+
+.container-fluid{
+    background-color: #DAF5FF;
+    padding: 20px 100px;
+    margin-top: 80px;
+    position: absolute;
+    z-index: 1;
+    
+}
+.navbar-brand{
+    margin-right: 200px;
+    font-size: 40px;
+}
+.nav-link{
+    margin: 10px;
+    font-size: large;
+}
+.btn{
+    background-color: #159895;
+    margin-left: 40px;
+}
+.btn:hover{
+    background-color: #2eccc9;
+}
+
+
+/* Info */
+.info{
+    position: absolute;
+    z-index: 1;
+    margin-top: 100px;
+}
+.profile{
+    width: 400px;
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.about{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.wh{
+    font-size: 40px;
+}
+.Heading{
+    font-size: 65px;
+    color: #2eccc9;
+    background-color: #D8D8D8;
+    display: inline-block;
+}
+.about1{
+    color: #2eccc9;
+    font-size: 35px;
+}
+.a1{
+    margin-left: 100px;
+    margin-top: -240px;
+    line-height: 2rem;
+}
+.p1{
+    font-size: 25px;
+}
+.img{
+    text-align: center;
+}
+.btnchat{
+    margin-left: 1010px;
+    margin-top: 50px;
+}
+
+/* FOOTER */
+
+.foot{
+    padding: 3% 5% 2% 12%;
+}
+.fa{
+  margin-left: 1028px;
+  
+}
+.fa-brands{
+    margin-right: 20px;
+    margin-top: 50px;
+    
+}
+.pf{
+    font-size: 20px;
+}
